@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/lekaneniola476-commits/clipboard-landing-page-master)
-- Live Site URL: [live site URL]()
+- Live Site URL: [live site URL](https://lekaneniola476-commits.github.io/clipboard-landing-page-master/)
 
 ## My process
 
@@ -52,6 +52,6 @@ i used CHATGPT  for some clearification and more understanding
 
 ## Author
 
-- Website - [ENNY]()
+- Website - [ENNY](https://lekaneniola476-commits.github.io/clipboard-landing-page-master/)
 - Frontend Mentor - [@lekaneniola476-commits](https://www.frontendmentor.io/profile/lekaneniola476-commits)
 - Twitter - [@rising476](https://x.com/rising476)
