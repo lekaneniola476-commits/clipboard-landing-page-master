@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL]()
+- Solution URL: [solution URL](https://github.com/lekaneniola476-commits/clipboard-landing-page-master)
 - Live Site URL: [live site URL]()
 
 ## My process
